@@ -1,7 +1,4 @@
-
-<object data="./bruno_reis.pdf" type="application/pdf">
-    <div>No online PDF viewer installed</div>
-</object>
+<img src="./readme-image.png" />
 
 ### Para reutilizar com os seus dados, basta mudar os valores no ./src/person.js
 
