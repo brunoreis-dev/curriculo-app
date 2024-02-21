@@ -1,0 +1,131 @@
+.container {
+  padding: 20px;
+}
+
+.title {
+  color: var(--pink);
+  font-size: 26px;
+}
+.role {
+  color: var(--white);
+  margin-bottom: 16px;
+}
+
+.contacts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 4px;
+  margin-bottom: 24px;
+}
+
+.contact {
+  font-size: 14px;
+  color: var(--yellow);
+  display: block;
+}
+
+.contactLink {
+  color: var(--blue);
+}
+
+.contactInfo {
+  color: var(--comments);
+}
+
+.box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 24px;
+}
+
+.subtitles {
+  font-size: 22px;
+  color: var(--green);
+  margin-bottom: 12px;
+}
+
+.tech {
+  margin-bottom: 4px;
+}
+
+.educationUniversity {
+  margin-bottom: 4px;
+  font-size: 16px;
+  color: var(--yellow);
+}
+
+.educationName {
+  margin-bottom: 4px;
+}
+
+.experience .subtitles {
+  margin-bottom: 0;
+}
+
+.experienceTitle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.experienceTotalTime {
+  font-size: 14px;
+  color: var(--comments);
+  display: block;
+}
+
+.experiences {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.experienceBox {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.experienceName {
+  font-size: 18px;
+  color: var(--yellow);
+}
+
+.experienceType {
+  font-size: 12px;
+  color: var(--blue);
+}
+
+.experienceRole {
+  color: var(--white);
+}
+
+.experienceTime {
+  font-size: 12px;
+  color: var(--comments);
+}
+
+.experienceDescription {
+  margin: 10px 0;
+}
+
+.experienceSkillTitle {
+  margin: 10px 0 6px;
+}
+
+.experienceSkillTitle {
+  color: var(--purple);
+}
+
+.skillLits {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.skill {
+  font-size: 12px;
+}
