@@ -122,7 +122,7 @@ const person = {
     {
       id: 5,
       name: "Digital Republic",
-      contractType: "Full Time",
+      contractType: "Estágio",
       role: "Fullstack Developer",
       time: "Mar 2020 ~ Mar 2021 · 1yr 1 mos",
       hardSkills: [
@@ -139,7 +139,7 @@ const person = {
     {
       id: 6,
       name: "Neverland Digital",
-      contractType: "Full Time",
+      contractType: "Estágio",
       role: "Frontend Developer",
       time: "Jul 2019 ~ Fev 2020 · 8 mos",
       hardSkills: [
