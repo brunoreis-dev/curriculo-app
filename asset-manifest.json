@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/curriculo-app/static/css/main.d19aaf53.css",
-    "main.js": "/curriculo-app/static/js/main.b28e4481.js",
+    "main.css": "/curriculo-app/static/css/main.5ac49777.css",
+    "main.js": "/curriculo-app/static/js/main.107ade48.js",
     "index.html": "/curriculo-app/index.html",
-    "main.d19aaf53.css.map": "/curriculo-app/static/css/main.d19aaf53.css.map",
-    "main.b28e4481.js.map": "/curriculo-app/static/js/main.b28e4481.js.map"
+    "main.5ac49777.css.map": "/curriculo-app/static/css/main.5ac49777.css.map",
+    "main.107ade48.js.map": "/curriculo-app/static/js/main.107ade48.js.map"
   },
   "entrypoints": [
-    "static/css/main.d19aaf53.css",
-    "static/js/main.b28e4481.js"
+    "static/css/main.5ac49777.css",
+    "static/js/main.107ade48.js"
   ]
 }
