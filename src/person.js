@@ -40,7 +40,7 @@ const person = {
       name: "wBrain",
       contractType: "Full Time",
       role: "Senior Frontend Developer",
-      time: "Jan 2023 ~ Fev 2024 · 1 yr 2 mos",
+      time: "Fev 2023 ~ Fev 2024 · 1 yr",
       hardSkills: [
         "• Sistemas para automatizar tarefas, cadastro de Duplicatas, dashboard de gráficos e automatização de cadastro de Lead",
         "• Frontend utilizando React, Typescript e arquitetura de micro-frontend",
@@ -62,7 +62,7 @@ const person = {
       name: "AoCubo",
       contractType: "Full Time",
       role: "Tech Lead | Senior Fullstack Developer",
-      time: "Fev 2022 ~ Jan 2024 · 1 yr",
+      time: "Fev 2022 ~ Jan 2023 · 1 yr",
       hardSkills: [
         "• Sistema interno usando Node, Express e Sequelize",
         "• Frontend do Portal do Corretor usando Typescript, Apollo Client, NextJS e React",
@@ -124,7 +124,7 @@ const person = {
       name: "Digital Republic",
       contractType: "Estágio",
       role: "Fullstack Developer",
-      time: "Mar 2020 ~ Mar 2021 · 1yr 1 mos",
+      time: "Mar 2020 ~ Mar 2021 · 1yr",
       hardSkills: [
         "• Frontend utilizando React, Typescript, NextJS e WordPress",
         "• Backend utilizando NodeJS, Express e typeORM",
